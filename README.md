@@ -7,3 +7,9 @@ Data Science Portfolio
 * Engineered features from each job description
 * Deployed model using streamlit
 
+# Project 2: [Image Classifier](https://github.com/maxim371/Image-classification)
+* created a tool that estimates data science salaries
+* scraped over 1000 job descriptions from glassdoor using python and selenium
+* Engineered features from each job description
+* Deployed model using streamlit
+
