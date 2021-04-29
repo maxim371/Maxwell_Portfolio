@@ -15,5 +15,5 @@ Data Science Portfolio
 * Engineered features from each job description
 * Deployed model using streamlit
 
-:[](https://github.com/maxim371/Maxwell_Portfolio/blob/main/images/classification.jpeg)
+:[](https://github.com/maxim371/Maxwell_Portfolio/blob/main/images/clustering.jpg)
 
