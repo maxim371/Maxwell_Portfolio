@@ -7,7 +7,7 @@ Data Science Portfolio
 * Engineered features from each job description
 * Deployed model using streamlit
 
-:[](/images/regression.jpeg)
+:[](/images/Linear_regression.png)
 
 # Project 2: [Image Classifier](https://github.com/maxim371/Image-classification)
 * created a tool that estimates data science salaries
@@ -15,5 +15,5 @@ Data Science Portfolio
 * Engineered features from each job description
 * Deployed model using streamlit
 
-:[](/images/clustering.jpg)
+:[](/images/classification.png)
 
